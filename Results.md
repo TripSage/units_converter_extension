@@ -1,4 +1,4 @@
-###Methods
+### Methods
 During the testing sessions, two experimenters were scheduled to analyse the testee (lab rat). Experimenter 1 tracked time taken for each activity and any other notes about the experiment. Experimenter 2 guided the testee through each activity.
 
 We compared our Smart Units Converter chrome extension with the highest rated units converter in the Chrome marketplace. And we used a couple different activities to find the better extension.
