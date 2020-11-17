@@ -39,11 +39,11 @@ For each activity, Experimenter 1 noted down the time taken. We also utilised go
 
 ### Observations :  
 * This is our observation for the installation and uninstallation of the product onto the user’s browser of Google Chrome. Below graph shows the result which has ratings out of 5, 5 claimed easiest to install/uninstall.
-![picture](/Users/lotus/Desktop/one.png)
+![picture](https://github.com/TripSage/units_converter_extension/blob/master/assets/one.png)
 
 
 * From the testers’ records of ease of use of the tool on different sites is shown in the following chart -
-![picture](/Users/lotus/Desktop/two.png)
+![picture](https://github.com/TripSage/units_converter_extension/blob/master/assets/two.png)
 
 
 * Question of “Do you think the product helped you? If so, in what way?’” - The observation of the textual evidence was about describing 
@@ -58,7 +58,7 @@ The observation of the textual evidence was about describing
 
 Following is the analytical chart for the other questions from the survey - 
 
-![picture](/Users/lotus/Desktop/three.png)
+![picture](https://github.com/TripSage/units_converter_extension/blob/master/assets/three.png)
 
 
 We can see the results, in the charts above.  
@@ -108,7 +108,7 @@ Alternate hypothesis - “Testers feel the unit converter extension is a useful 
 | How likely are you to rate this product from your experience? | 5 - excellent  | 4  |
 
 
-We can calculate Cliff’s delta between all pairs of the observations we have.
+* We can calculate Cliff’s delta between all pairs of the observations we have.
 Threshold for overall analysis -> 1/36 -> 0.027778
 Algorithm for the same for evaluating cliff’s delta is as follows ->
 
@@ -124,19 +124,13 @@ Algorithm for the same for evaluating cliff’s delta is as follows ->
         return z < small # true is small effect in difference
 
 
-Responses and their Cliff’s delta - 
-
-From a python code and the algorithm above, we can collect Cliff’s Delta as follows - 
-
-![picture](/Users/lotus/Desktop/four.png)
-
-There are a total 6 numerically answered questions. Let’s perform the Cliff’s delta analysis on each pair.
+* There are a total 6 numerically answered questions. Let’s perform the Cliff’s delta analysis on each pair.
 
 | Observations  | 1 | 2  | 3 | 4  | 5  | 6 | 7 | 8  | 9  | 10  |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1  | False  | True  | False  | True  | True  | False  | True  | False  | False  | False  |
 | 2  |   |  False | False  | False  |False   | False  | True  | False  | False  |  True |
-| 3  |   |   |  False | False  |   | False  | True  | False  | False  |  True |
+| 3  |   |   |  False | False  | False  | False  | True  | False  | False  |  True |
 | 4  |   |   |   |  False | False  |True   | False  | False  | True  | False  |
 | 5  |   |   |   |   |  False | False  | False  | False  | False  |  True |
 | 6  |   |   |   |   |   |  False | True  | False  | True  | False  |
