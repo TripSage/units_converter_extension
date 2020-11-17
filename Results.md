@@ -20,9 +20,9 @@ For each activity, Experimenter 1 noted down the time taken. We also utilised go
 
 ### Materials : 
 #### Technologies Used:
-* Google forms [https://docs.google.com/forms/d/e/1FAIpQLSdAw6q0F9eH7-4E4a28tgTYkoPKRqPbNzxFlldrEcT6OJCxng/viewform] to collect the data: At the end of Testing Each participant was required to fill the google form in an anonymous manner.
+* [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSdAw6q0F9eH7-4E4a28tgTYkoPKRqPbNzxFlldrEcT6OJCxng/viewform) to collect the data: At the end of Testing Each participant was required to fill the google form in an anonymous manner.
 * Zoom video for observation and interactions: The lab trials were conducted on Zoom and each participant was allotted 50 minutes to perform the experiments. And 10 minutes to fill out google form.
-* Comparative Analysis: We asked participants to use another competitive chrome extension [https://chrome.google.com/webstore/detail/unit-converter/igjeajmonjofckmiheidpmebpmdbbiam?utm_campaign=en&utm_source=en-ha-na-us-bk-ext&utm_medium=ha] and asked them to rate our extension by using the other extension as baseline.
+* Comparative Analysis: We asked participants to use another [competitive chrome extension](https://chrome.google.com/webstore/detail/unit-converter/igjeajmonjofckmiheidpmebpmdbbiam?utm_campaign=en&utm_source=en-ha-na-us-bk-ext&utm_medium=ha) and asked them to rate our extension by using the other extension as baseline.
 * Excel Sheet was used to note down the observations w.r.t time taken by a participant and manual notes were taken for subjective analysis like Bugs discovered or feedback presented.
 * While freedom to use any website to play with the extension was given to lab-testers, We suggested use of websites such as Amazon.com, Skyscanner, Tesla and Google maps to ensure comprehensive testing of most capabilities of extension.
 
